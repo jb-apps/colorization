@@ -1,6 +1,4 @@
-torch
-skimage
-numpy
-matplotlib
-argparse
-PIL
+torch==2.7.0
+scikit-image==0.25.2
+numpy>=2.2.5,<3.0
+pillow>=11.2.1,<12.0
